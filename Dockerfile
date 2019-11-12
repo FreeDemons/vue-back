@@ -19,6 +19,3 @@ EXPOSE 3000
 
 #CMD也是运行一个命令，但是在docker run时运行
 CMD npm start
-
-
-~
